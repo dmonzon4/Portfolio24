@@ -71,9 +71,9 @@ export default function Projects() {
             })
           }
           {/* Swiper navigation button */}
-          <div className="navigation-buttons">
-            <button className="button-prev-slide"><FaArrowLeft /></button>
-            <button className="button-next-slide"><FaArrowRightLong /></button>
+          <div className="projects-navigation-buttons">
+            <button className="projects-button-prev-slide"><FaArrowLeft /></button>
+            <button className="projects-button-next-slide"><FaArrowRightLong /></button>
           </div>
         </Swiper>
 

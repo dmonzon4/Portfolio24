@@ -501,6 +501,27 @@ header{
   z-index: 1 !important;
 }
 
+.projects-navigation-buttons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.projects-navigation-buttons button {
+  background: transparent;
+  font-size: 22px;
+  overflow: none;
+  border: none;
+  color: var(--color-danger);
+}
+
+.projects-navigation-buttons button:last-child {
+  color: var(--color-primary);
+}
+
 .projects-image{
   border: 1px solid var(--color-danger);
   height: 240px;
