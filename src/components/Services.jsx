@@ -2,7 +2,7 @@
 import TitleOne from "../UI/TitleOne"
 
 // Services Shape ********************
-import servicesShape from '../assets/shapes123.svg'
+// import servicesShape from '../assets/shapes123.svg'
 
 // Services Shape ********************
 import { ServicesData } from "../data/Data"
@@ -31,9 +31,9 @@ export default function Services() {
         }
         </div>
 
-        <div className="services-shape">
+        {/* <div className="services-shape">
           <img src={servicesShape} alt="" />
-        </div>
+        </div> */}
       </div>
     </section>
   )

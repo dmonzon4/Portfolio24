@@ -10,9 +10,6 @@ import 'swiper/css/navigation';
 // Import Testimonials data ***********
 import { ProjectsData } from "../data/Data";
 
-// Shape png
-import quotepng from "../assets/quote.png"
-
 // React Icon Previous <--
 import { FaArrowLeft } from "react-icons/fa6";
 

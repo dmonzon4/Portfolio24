@@ -96,46 +96,46 @@ export const TestimonialsData =[
 
     
   // Testimonials  Data.......................
-import ProjctImage1 from '../assets/pikachu.jpg'
-import ProjctImage2 from '../assets/pikachu.jpg'
-import ProjctImage3 from '../assets/pikachu.jpg'
-import ProjctImage4 from '../assets/pikachu.jpg'
-import ProjctImage5 from '../assets/pikachu.jpg'
+import ProjctImage1 from '../assets/bk.png'
+import ProjctImage2 from '../assets/google.png'
+import ProjctImage3 from '../assets/blitz.jpg'
+import ProjctImage4 from '../assets/loading.gif'
+import ProjctImage5 from '../assets/loading.gif'
 
 export const ProjectsData =[
   {
       projectImage: ProjctImage1,
-      category: 'Analytics, UI-Ux',
+      category: 'Bayerische Kueche',
       title: 'Branding & Digital Video Campaign For George’s Cafe',
       info: 'Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.',
-      projectLink: "#",
+      projectLink: "https://bk-mern-projekt.netlify.app/",
   },
   {
       projectImage: ProjctImage2,
-      category: 'Web developement',
+      category: 'PokeTrade',
       title: 'Branding & Digital Video Campaign For George’s Cafe',
       info: 'Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.',
       projectLink: "#",
   },
   {
       projectImage: ProjctImage3,
-      category: 'Mobile Apps',
+      category: 'Blitz',
       title: 'Branding & Digital Video Campaign For George’s Cafe',
       info: 'Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.',
-      projectLink: "#",
+      projectLink: "https://dmonzon4.github.io/Fastball-Blitz/",
   },
   {
       projectImage: ProjctImage4,
-      category: 'Analytics, UI-Ux',
-      title: 'Branding & Digital Video Campaign For George’s Cafe',
-      info: 'Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.',
+      category: 'Coming soon...',
+      title: '...very soon',
+      info: 'WhimsyWizard Ipsum, donde dragones con los colores del arco iris componen sinfonías con notas de chicle, naves espaciales impulsadas por gominolas se embarcan en constelaciones de caramelo y robots que viajan en el tiempo sirven té a mariposas cuánticas. Ten cuidado con los monstruos interdimensionales que hacen cosquillas y con los pulpos malabaristas que practican trucos circenses en gravedad cero. Deslízate por las nubes de malvavisco y baila con los duendecillos de polvo de estrellas en este fantástico país de las maravillas de Ipsum..',
       projectLink: "#",
   },
   {
       projectImage: ProjctImage5,
-      category: 'Mobile Apps',
-      title: 'Branding & Digital Video Campaign For George’s Cafe',
-      info: 'Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry.',
+      category: 'Coming soon...',
+      title: '...very soon',
+      info: 'WhimsyWizard Ipsum, donde dragones con los colores del arco iris componen sinfonías con notas de chicle, naves espaciales impulsadas por gominolas se embarcan en constelaciones de caramelo y robots que viajan en el tiempo sirven té a mariposas cuánticas. Ten cuidado con los monstruos interdimensionales que hacen cosquillas y con los pulpos malabaristas que practican trucos circenses en gravedad cero. Deslízate por las nubes de malvavisco y baila con los duendecillos de polvo de estrellas en este fantástico país de las maravillas de Ipsum.',
       projectLink: "#",
   },   
 ]
