@@ -17,21 +17,21 @@ export default function Header() {
         <div className="hero">
           <img src={HeroImage} alt="" />
           <h2 className="hero-text">
-            Hello! I am <span>Diego</span>
+            <span>Hello! </span>I am <span>Diego</span>
           </h2>
         </div>
         <div className="hero-bottom">
           <div className="typer-text">
             <TypedText />
             <br />
-            <h5>From <span>In</span></h5>
+            <h5>From <span>Gt</span></h5>
           </div>
           <div className="social">
-            <a href="" target="_blanck"><FaLinkedin /></a>
-            <a href="" target="_blanck"><FaGithub /></a>
-            <a href="" target="_blanck"><FaInstagram /></a>
-            <a href="" target="_blanck"><FaFacebook /></a>
-            <a href="" target="_blanck"><GrCertificate /></a>
+            <a href="https://www.linkedin.com/in/diegoamonzong" target="_blank"><FaLinkedin /></a>
+            <a href="https://github.com/dmonzon4" target="_blank"><FaGithub /></a>
+            <a href="https://www.instagram.com/dmon.nz" target="_blank"><FaInstagram /></a>
+            <a href="https://www.facebook.com/diegoalejandro.monzon/" target="_blank"><FaFacebook /></a>
+            <a href="https://www.credential.net/eb07ccaa-2521-4a7a-8484-3662cf7bf783#gs.41p2p8" target="_blank"><GrCertificate /></a>
           </div>
         </div>
       </div>

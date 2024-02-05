@@ -7,9 +7,9 @@ export const AboutData =[
     {
         Image: AboutImage,
 
-        AboutMe: "Hi! I'm . I have a strong passion for design . I specialize in  UI/UX Design and my passion is all about building elegant and professional user interfaces and websites. I also do branding and identity design such as logo design, letterhead and business card, along with photo editing, image cropping and other graphic design services.",
+        AboutMe: "As an Innovation Enthusiast, I thrive on creative problem-solving and constantly seek innovative ways to tackle challenges. I approach goals dynamically, leveraging my diverse skills with enthusiasm and creativity. Being an Agile Strategist, I flexibly develop and implement plans, embracing creativity in problem-solving. My analytical mindset allows me to translate information into actionable insights, facilitating informed decision-making and effective problem-solving.",
 
-        AboutContactText: 'Do you fancy saying hi to me or you want to get started with your project and you need my help? Feel free to contact me.',
+        AboutContactText: 'Whether you would like to drop a friendly greeting or kick off your project with my assistance, do not hesitate to reach out. Feel free to get in touch!',
         Email: "diego.almg@hotmail.com",
         CV: CV,        
     }

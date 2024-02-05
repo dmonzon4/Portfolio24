@@ -19,7 +19,7 @@ export default function About() {
                 <TitleOne titleSm={"let me introduce myself"} title={"About"} titleEx={"Me"} />
 
                 <div className="aboutMe-info">
-                  <h5 className="about-small-title">A story of hardwork and perseverance. </h5>
+                  <h5 className="about-small-title">A narrative of dedication and tenacity. </h5>
                   <p>{AboutMe}</p>
                 </div>
 
@@ -30,7 +30,7 @@ export default function About() {
                 </div>
 
                 <div className="about-action-aria">
-                  <a href="#Contact" className="btn btn-danger">Hire Me</a>
+                  <a href="#Contact" className="btn btn-danger">Contact Me</a>
                   <a href={CV} download className="btn btn-primary">Download CV</a>
                 </div>
               
