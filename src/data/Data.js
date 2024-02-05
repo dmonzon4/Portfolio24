@@ -19,20 +19,20 @@ export const AboutData =[
 // Skills Data.................
 export const SkillsData =[
     {
-        skillName: 'Graphic Design',
-        percentage: 70,
-    },
-    {
-        skillName: 'Web Designing',
+        skillName: 'Creative Problem-Solving 🧠',
         percentage: 85,
     },
     {
-        skillName: 'Brand Design',
-        percentage: 60,
+        skillName: 'Strategic Communication 📢',
+        percentage: 95,
     },
     {
-        skillName: 'Web Developmet',
-        percentage: 40,
+        skillName: 'Efficient Project Management 📅',
+        percentage: 85,
+    },
+    {
+        skillName: 'Adaptability and Continuous Learning 🚀',
+        percentage: 100,
     }
 ]
 
@@ -41,22 +41,22 @@ export const SkillsData =[
 export const TestimonialsData =[
   {
       testText: 'Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Ashlynn Herwitz',
+      name: 'Angel R.',
       info: 'Interior Designer'
   },
   {
       testText: '2Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Ashlynn Herwitz',
+      name: 'Ruth.',
       info: 'Interior Designer'
   },
   {
       testText: '3Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Ashlynn Herwitz',
+      name: 'Cliff W.',
       info: 'Interior Designer'
   },
   {
       testText: '4Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Ashlynn Herwitz',
+      name: 'siemens',
       info: 'Interior Designer'
   },    
 ];

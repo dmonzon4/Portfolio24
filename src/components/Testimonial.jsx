@@ -14,10 +14,10 @@ import { TestimonialsData } from "../data/Data";
 import quotepng from "../assets/quote.png"
 
 // React Icon Previous <--
-import { FaArrowLeft } from "react-icons/fa6";
+import { GoArrowLeft } from "react-icons/go";
 
 // React Icon Next -->
-import { FaArrowRightLong } from "react-icons/fa6";
+import { GoArrowRight } from "react-icons/go";
 
 export default function Testimonial() {
   return (
@@ -51,10 +51,10 @@ export default function Testimonial() {
             })
           }
           {/* Swiper navigation button */}
-            {/* <div className="navigation-buttons">
-            <button className="button-prev-slide"><FaArrowLeft /></button>
-            <button className="button-next-slide"><FaArrowRightLong /></button>
-            </div> */}
+            <div className="navigation-buttons">
+            <button className="button-prev-slide"><GoArrowLeft /></button>
+            <button className="button-next-slide"><GoArrowRight /></button>
+            </div>
             <div className="quote-png"><img src={quotepng} alt="quotes" /></div>
         </Swiper>
       </div>
