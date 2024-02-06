@@ -40,24 +40,24 @@ export const SkillsData =[
 //   // Testimonials  Data.......................
 export const TestimonialsData =[
   {
-      testText: 'Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Angel R.',
-      info: 'Interior Designer'
+      testText: 'Coming soon',
+      name: '-- .-',
+      info: 'Coming soon'
   },
   {
-      testText: '2Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Ruth.',
-      info: 'Interior Designer'
+      testText: '---.',
+      name: '-- .-',
+      info: '---'
   },
   {
-      testText: '3Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'Cliff W.',
-      info: 'Interior Designer'
+      testText: '---.',
+      name: '-- .-',
+      info: '---'
   },
   {
-      testText: '4Exceptionally pleased with militaria. I have been very disappointed with many alleged business card designers. He really surprised me with his taste and style. Impossible to let you down.',
-      name: 'siemens',
-      info: 'Interior Designer'
+      testText: '---.',
+      name: '-- .-',
+      info: '---'
   },    
 ];
 
