@@ -72,21 +72,21 @@ export const TestimonialsData =[
       services: [
           { 
               icon: HiOutlineLightBulb, 
-              proCount: '198 Projects',
-              name: 'UI & UX Design',
-              textInfo: 'Create project plan, Data analysis, wireframes, Concept Testing, Style guide, Responsiveness, User Testing.'
+            //   proCount: '198 Projects',
+              name: 'Innovative Solutions',
+              textInfo: 'Creative solutions, Ideation, Prototyping, User Experience Optimization, Responsive Design, User Testing.'
           },   
           {
                 icon: IoLayersOutline,
-                proCount: '18 Projects',
-                name: 'Graphic Design',
-                textInfo: 'Create project plan, Data analysis, wireframes, Concept Testing, Style guide, Responsiveness, User Testing.'
+                // proCount: '18 Projects',
+                name: 'Visual Branding',
+                textInfo: 'Visual Elements Integration, User Feedback Incorporation.'
           },   
           { 
               icon: RiComputerLine,
-              proCount: '112 Projects',
-              name: 'Web Design',
-              textInfo: 'Create project plan, Data analysis, wireframes, Concept Testing, Style guide, Responsiveness, User Testing.'
+            //   proCount: '112 Projects',
+              name: 'Web Development',
+              textInfo: 'Project planning, Front-end and Back-end Development.'
           },   
       ],
             

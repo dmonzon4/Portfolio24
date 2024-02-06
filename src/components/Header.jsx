@@ -15,7 +15,7 @@ export default function Header() {
     <header>
       <div className="container header-container">
         <div className="hero">
-          <img src={HeroImage} alt="" />
+          <img src={HeroImage} alt="Me" />
           <h2 className="hero-text">
             <span>Hello! </span>I am <span>Diego</span>
           </h2>
