@@ -15,7 +15,7 @@ export default function Contact() {
         <div className="contact-left">
           <h4>Contact</h4>
           <p>
-          I am actively seeking to become part of a collaborative, cross-functional team <br /> that prioritizes enhancing the quality of people's lives through accessible programming. <br /> Do you have an ongoing project where my skills could contribute positively? Let's start a conversation!
+          I am actively seeking to become part of a collaborative, cross-functional team that prioritizes enhancing the quality of people's lives through accessible programming. <br /> Do you have an ongoing project where my skills could contribute positively? Let's start a conversation!
           </p>
           <h5>
             <a href="mailto:diego.almg@hotmail.com">diego.almg@hotmail.com</a>

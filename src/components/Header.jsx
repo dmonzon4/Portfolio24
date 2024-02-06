@@ -24,7 +24,7 @@ export default function Header() {
           <div className="typer-text">
             <TypedText />
             <br />
-            <h5>From <span>Gt</span></h5>
+            <h5>📍<span>Munich, Germany</span></h5>
           </div>
           <div className="social">
             <a href="https://www.linkedin.com/in/diegoamonzong" target="_blank"><FaLinkedin /></a>
