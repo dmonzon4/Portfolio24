@@ -115,7 +115,7 @@ export const ProjectsData =[
       category: 'PokeTrade',
       title: 'Full Stack Project',
       info: 'This aventure has been a dynamic dance of teamwork, where each line of code reflects the shared passion and dedication we invested in bringing this platform to life. Beyond the technical intricacies, our collaboration has been a lesson in effective communication, problem-solving and the joy of shared achievement. From brainstorming sessions to late-night coding marathons, every step has been a shared adventure, reinforcing the belief that great things happen when minds collaborate.',
-      projectLink: "#",
+      projectLink: "https://poketradedm.adaptable.app",
   },
   {
       projectImage: ProjctImage3,

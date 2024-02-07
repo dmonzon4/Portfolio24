@@ -11,7 +11,7 @@ export default function About() {
           return (
             <div className="container about-container" key={index}>
               <div className="about-left">
-                <img src={Image} alt="AboutMe" />
+                <img src={Image} alt="AboutMe" style={{ width: '250px', height: 'auto' }} />
               </div>
 
               <div className="about-right">
