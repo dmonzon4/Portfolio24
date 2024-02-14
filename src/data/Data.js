@@ -40,9 +40,9 @@ export const SkillsData =[
 //   // Testimonials  Data.......................
 export const TestimonialsData =[
   {
-      testText: 'Coming soon',
-      name: '-- .-',
-      info: 'Coming soon'
+      testText: 'Diego is extremely responsible and proactive, always going above and beyond to ensure customer satisfaction. During my work with him, Diego stood out for his ability to actively listen to the customer´s needs and concerns, enabling him to provide the most effective problem-solving solutions. He is customer-oriented, efficient and acts quickly to customer´s needs.',
+      name: 'Angela R.',
+      info: 'Head of IT Project Management'
   },
   {
       testText: '---.',
