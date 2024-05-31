@@ -1,4 +1,4 @@
-// *******Logo*******
+// *******Logo.*******
 import logo from '../assets/blitz.png'
 
 // import UseState ***********************
